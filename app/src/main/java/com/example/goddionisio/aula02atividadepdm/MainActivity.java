@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
+
     private EditText valorEdt01, valorEdt02;
 
     private int valorSoma01, valorSoma02;
