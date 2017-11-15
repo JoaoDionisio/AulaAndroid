@@ -18,11 +18,8 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     //tentando adicionar o git
     //COMENTARIO ADD PELO SITE GITHUB
-<<<<<<< HEAD
     //Minha ADD local pelo pc
-=======
-    //Minha alteracao pelo site!
->>>>>>> 4f1c0dacb114d6193ddb7405a83971fd3cbe7c1b
+
 
 
     private EditText valorEdt01, valorEdt02;
